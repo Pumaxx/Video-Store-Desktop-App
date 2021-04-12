@@ -41,7 +41,7 @@ Jest to program symulujący wypożyczalnie filmów obsługujący 3 główne okna
 - **zakładka dodaj użytkownika:**
     - po wpisaniu loginu i hasła dodawane są one do pliku logowanie.txt
 
-- ostania częścią panelu administratora jest przycisk Wyloguj cofający nas do okna logowania 
+ostania częścią panelu administratora jest przycisk Wyloguj cofający nas do okna logowania 
 
 
 **Okno użytkownika:**
@@ -74,5 +74,5 @@ Jest to program symulujący wypożyczalnie filmów obsługujący 3 główne okna
   - po wpisaniu tego samego hasła i loginu użytego podczas logowania wyświetla się okno podania nowego hasła i powtórzenia go 
   - po wpisaniu 2 takich samych haseł, hasło tego użytkownika zostaje zmienione w pliku logowanie.txt
 
-- ostatnią częścią panelu użytkownika jest przycisk Wyloguj cofający nas do okna logowania 
+ostatnią częścią panelu użytkownika jest przycisk Wyloguj cofający nas do okna logowania 
 
