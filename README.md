@@ -71,8 +71,8 @@ Jest to program symulujący wypożyczalnie filmów obsługujący 3 główne okna
 </p>
 
 **zakładka zmień hasło:**
-    - po wpisaniu tego samego hasła i loginu użytego podczas logowania wyświetla się okno podania nowego hasła i powtórzenia go 
-    - po wpisaniu 2 takich samych haseł, hasło tego użytkownika zostaje zmienione w pliku logowanie.txt
+  - po wpisaniu tego samego hasła i loginu użytego podczas logowania wyświetla się okno podania nowego hasła i powtórzenia go 
+  - po wpisaniu 2 takich samych haseł, hasło tego użytkownika zostaje zmienione w pliku logowanie.txt
 
 - ostatnią częścią panelu użytkownika jest przycisk Wyloguj cofający nas do okna logowania 
 
