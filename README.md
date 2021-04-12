@@ -52,15 +52,15 @@ Jest to program symulujący wypożyczalnie filmów obsługujący 3 główne okna
 </p>
 
 **zakładka moje filmy:**
-    - wyświetlane są filmy, które są obecnie wypożyczone przez użytkownika, pobrane z pliku tekstowego o nazwie jego loginu, znajdujące się w folderze Uzytkownicy
-    - użytkownik posiada możliwość zwrócenia filmu po wpisaniu poprawnego tytułu, który zostanie usunięty z pliku testowego
+- wyświetlane są filmy, które są obecnie wypożyczone przez użytkownika, pobrane z pliku tekstowego o nazwie jego loginu, znajdujące się w folderze Uzytkownicy
+- użytkownik posiada możliwość zwrócenia filmu po wpisaniu poprawnego tytułu, który zostanie usunięty z pliku testowego
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72915573/114391925-6498c580-9b98-11eb-9858-46bb125349f1.png" />
 </p>
 
 **zakładka wypożycz film:**
-    - wyświetlane są filmy możliwe do wypożyczenia pobrane z pliku wypozycz.txt, co skutkuje dodaniem go do pliku tekstowego o nazwie loginu tego użytkownika
+- wyświetlane są filmy możliwe do wypożyczenia pobrane z pliku wypozycz.txt, co skutkuje dodaniem go do pliku tekstowego o nazwie loginu tego użytkownika
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72915573/114391935-66628900-9b98-11eb-91f0-110a4e7c12f7.png" />
